@@ -1,0 +1,13 @@
+[package]
+name = {{ cookiecutter.repo_name }}
+version = "0.1.0"
+authors = ["Nathan Henrie <nate@n8henrie.com>"]
+edition = "2018"
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/n8henrie/{{ cookiecutter.repo_name }}"
+description = "{{ cookiecutter.project_short_description }}"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
