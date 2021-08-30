@@ -8,5 +8,8 @@
   "project_short_description": "A package that does some stuff",
   "version": "0.1.0",
   "year": "",
-  "release_date": ""
+  "release_date": "",
+  "_copy_without_render": [
+    ".github/workflows/*.yml"
+  ]
 }
