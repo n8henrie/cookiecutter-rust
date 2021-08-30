@@ -1,5 +1,5 @@
 [package]
-name = {{ cookiecutter.repo_name }}
+name = "{{ cookiecutter.repo_name }}"
 version = "0.1.0"
 authors = ["Nathan Henrie <nate@n8henrie.com>"]
 edition = "2018"
