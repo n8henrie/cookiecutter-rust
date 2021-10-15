@@ -12,14 +12,6 @@ cookiecutter.repo_name }}/actions/workflows/build.yml) -->
 {{ cookiecutter.project_short_description }}
 
 - Free software: MIT
-- Documentation: https://{{ cookiecutter.repo_name }}.readthedocs.io
-
-
-# {{ cookiecutter.project_name }}
-
-{{ cookiecutter.project_short_description }}
-
-- Free software: MIT
 - Documentation: https://{{ cookiecutter.repo_name }}.readthedocs.org
 
 ## Features
