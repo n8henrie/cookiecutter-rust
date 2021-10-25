@@ -2,7 +2,7 @@
 name = "{{ cookiecutter.repo_name }}"
 version = "0.1.0"
 authors = ["Nathan Henrie <nate@n8henrie.com>"]
-edition = "2018"
+edition = "2021"
 readme = "README.md"
 license = "MIT"
 repository = "https://github.com/n8henrie/{{ cookiecutter.repo_name }}"
